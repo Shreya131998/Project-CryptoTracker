@@ -36,12 +36,8 @@ const fetchPrice=async(ctype)=>{
 </tr>
 <tr>
         <td style="color:white;font-weight:bold;">Change</td>
-        if(${change}<0){
-        <td style="color:red;">${change}</td>
-        }
-        else{
         <td style="color:white;">${change}</td>
-        }
+        
     </tr>
     
     `
