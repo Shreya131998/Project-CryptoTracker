@@ -1,0 +1,11 @@
+body{
+    background-image:url("https://img.freepik.com/free-vector/bitcoin-blockchain-digital-coin-crypto-currency-concept-background_1017-30307.jpg?t=st=1657983227~exp=1657983827~hmac=5cc095208e4d9150af0b929e81e2459c55bfbcf9778b4943ab29af06acc886f2&w=1060"); 
+
+    background-size:cover;
+    height:100vh;
+}
+
+.main-head{
+    font-family:"Serif";
+    color:white;
+}
